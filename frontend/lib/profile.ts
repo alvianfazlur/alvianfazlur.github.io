@@ -78,8 +78,13 @@ export const profile = {
       category: "qa",
       title: "Linknet ABD Ring BB",
       workplace: "PT Javan Cipta Solusi",
-      label: "manual",
-      stack: ["Jam.dev", "ActiveCollab", "QA Tools · Test Case Creation & Bug Tracking"],
+      label: "both",
+      stack: [
+        "Jam.dev",
+        "ActiveCollab",
+        "QA Tools · Test Case Creation & Bug Tracking",
+        "Playwright + TypeScript",
+      ],
     },
     {
       category: "qa",
